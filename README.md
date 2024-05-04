@@ -1,6 +1,6 @@
 # 🌟 [weatheringo](https://banklord.github.io/weatheringo)
 
-## Description
+## [Description](https://oussamamazali.wixsite.com/weatheringo)
 
 Weatheringo is a web application that provides weather updates for different cities around the world. The application utilizes the OpenWeatherMap API to retrieve weather data and displays it to the user. Users can easily search for their desired city and receive accurate weather information, including temperature, humidity, wind speed, and weather conditions.
 
