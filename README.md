@@ -1,4 +1,4 @@
-# 🌟 [ttps://banklord.github.io/weatheringo](weatheringo)
+# 🌟 [weatheringo](https://banklord.github.io/weatheringo)
 
 ## Description
 
