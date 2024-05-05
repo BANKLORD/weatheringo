@@ -120,9 +120,6 @@ html {
     font-size: 10px;
     scroll-behavior: smooth;
 }
-.search-view .view-item :is(.m-icon, .item-subtitle){
-    color: white;
-}
 
 body {
     background-color: var(--background);
@@ -481,6 +478,7 @@ body {
     position: absolute;
     inset: 0;
     box-shadow: none;
+    color: white;
 }
 
 
