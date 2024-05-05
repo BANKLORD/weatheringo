@@ -467,12 +467,11 @@ body {
     align-items: center;
     gap: 16px;
     padding-inline: 16px 24px;
-    color: white;
-
 }
 
 .search-view .view-item :is(.m-icon, .item-subtitle) {
-    color: var(--on-surface-variant);
+    color: white;
+
 }
 
 .search-view .view-item .item-link {
