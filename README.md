@@ -1,5 +1,9 @@
 # 🌟 [weatheringo](https://banklord.github.io/weatheringo)
 
+## Context
+
+In the past five years, Morocco has faced a significant drought, with minimal rainfall affecting various aspects of life, from agriculture to water resources. Concerned about the impact of these weather patterns on communities, I embarked on creating this project. The idea behind it was simple yet powerful: to provide easy access to weather forecasts so that individuals and communities can anticipate and prepare for the possibility of rain. By developing this project, I aimed to empower people with the information they need to adapt to changing weather conditions and mitigate the challenges posed by prolonged periods of drought.
+
 ## [Description](https://oussamamazali.wixsite.com/weatheringo)
 
 Weatheringo is a web application that provides weather updates for different cities around the world. The application utilizes the OpenWeatherMap API to retrieve weather data and displays it to the user. Users can easily search for their desired city and receive accurate weather information, including temperature, humidity, wind speed, and weather conditions.
