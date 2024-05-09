@@ -4,7 +4,7 @@
 
 In the past five years, Morocco has faced a significant drought, with minimal rainfall affecting various aspects of life, from agriculture to water resources. Concerned about the impact of these weather patterns on communities, I embarked on creating this project. The idea behind it was simple yet powerful: to provide easy access to weather forecasts so that individuals and communities can anticipate and prepare for the possibility of rain. By developing this project, I aimed to empower people with the information they need to adapt to changing weather conditions and mitigate the challenges posed by prolonged periods of drought.
 
-            ![Water-resources-in-Morocco-in-m-year-per-inhabitant](https://github.com/BANKLORD/weatheringo/assets/132847557/4c9d082f-f282-4b28-98e3-29c4a220a6df)
+![Water-resources-in-Morocco-in-m-year-per-inhabitant](https://github.com/BANKLORD/weatheringo/assets/132847557/4c9d082f-f282-4b28-98e3-29c4a220a6df)
 
 
 ## [Description](https://oussamamazali.wixsite.com/weatheringo)
