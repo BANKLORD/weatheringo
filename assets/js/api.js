@@ -2,7 +2,7 @@
 "use strict";
 
 // API key for OpenWeatherMap API (Replace with your actual API key)
-const API_KEY = "b907ed77e235f08eb8615a5111ad8e47";
+const API_KEY = "014d19811b9697b0b8d34f345b6f6762";
 
 // Function to fetch data from the OpenWeatherMap API
 export const fetchData = function (URL, callback) {
